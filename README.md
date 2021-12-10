@@ -1,4 +1,4 @@
-# bounce_game_javascript
+# bounce_game_javascript.html
 bounce game in java script
 <html>
   <head>
